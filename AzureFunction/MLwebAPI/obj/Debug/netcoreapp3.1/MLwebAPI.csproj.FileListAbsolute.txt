@@ -1,0 +1,17 @@
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.exe
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.deps.json
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.runtimeconfig.json
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.runtimeconfig.dev.json
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.dll
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\MLwebAPI.pdb
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.AssemblyInfo.cs
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.csproj.CopyComplete
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.dll
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.pdb
+C:\Users\Julia\Documents\GitHub\JuliaGu808origin\BigData_Kurs\Inlupp1\BigdataInlupp1\AzureFunction\MLwebAPI\obj\Debug\netcoreapp3.1\MLwebAPI.genruntimeconfig.cache
