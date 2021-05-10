@@ -1,3 +1,3 @@
 # BigdataInlupp2
 
-Azure IOT, SQL, Service bus, Event hub, Azure ML etc
+Azure IOT, SQL, Stream analytics, Service bus, Event hub, SSMS, SSIS, Azure ML etc
